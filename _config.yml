@@ -1,2 +1,22 @@
 remote_theme: 'mmistakes/so-simple-theme'
+
+# site configuration
+locale: en-US
+title: Photos by Sixer's Daddy
+description: Photos
+baseurl:
+url: 'https://sixersdaddy.net'
+# logo:
+
+# date format
+date_format: '%Y-%m-%d'
+
+# reading time
+read_time: true
+words_per_minute: 200
+
+# mathematics
+mathjax: true
+
+# copyright
 copyright: © 2019 Sixer's Daddy. All rights reserved.
